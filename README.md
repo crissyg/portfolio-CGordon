@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-##SKILLS
+## SKILLS
 
-##PROJECTS
+## PROJECTS
 
