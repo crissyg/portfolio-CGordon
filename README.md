@@ -1,2 +1,8 @@
-# portfolio-CGordon
-Christina Gordon
+# Christina Gordon
+
+## ABOUT ME
+
+##SKILLS
+
+##PROJECTS
+
