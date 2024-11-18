@@ -9,7 +9,7 @@
 
 ## PROJECTS
 
-### Mobile APP<br>
+### Mobile APPS<br>
 **Title**: GitCHEAT<br>
 **Description**: GitCheat provides a quick reference to commonly used Git commands that are used for source control.<br>
 **Language**: Java, Google Firebase(Backend service)<br>
