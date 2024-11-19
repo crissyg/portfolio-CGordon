@@ -2,8 +2,9 @@
 
 ## TECHNICAL SKILLS
 
-<img src="images/reshot-icon-python-L432GEZMNS.svg" width="10%"/> <img src="images/reshot-icon-java-6GSC9W8NVP.svg" width="10%"/> <img src="images/reshot-icon-javascript-QPKNA94BZV.svg" width="10%"/> <img src="https://github.com/user-attachments/assets/94a12613-3202-4d23-9c15-23fc1ab6ffd0" width="10%"/> <img src="images/reshot-icon-cpp-K2ZLQP3RH8.svg" width="10%"/> <img src="images/reshot-icon-android-PRH35EK6VU.svg" width="10%"/> <img src="images/reshot-icon-coding-html.svg" width="10%"/>  <img src="images/reshot-icon-sql-server-KM3FTNEQ9X.svg" width="10%"/> 
+<img src="images/reshot-icon-python-L432GEZMNS.svg" width="10%"/> <img src="images/reshot-icon-java-6GSC9W8NVP.svg" width="10%"/> <img src="images/reshot-icon-javascript-QPKNA94BZV.svg" width="10%"/> <img src="https://github.com/user-attachments/assets/94a12613-3202-4d23-9c15-23fc1ab6ffd0" width="10%"/> <img src="images/reshot-icon-cpp-K2ZLQP3RH8.svg" width="10%"/> <img src="images/reshot-icon-android-PRH35EK6VU.svg" width="10%"/> <img src="images/reshot-icon-coding-html.svg" width="10%"/>  <img src="images/reshot-icon-sql-server-KM3FTNEQ9X.svg" width="10%"/> <img src="images/icons8-jenkins.svg" width="10%"/> 
 
+<!-- <a target="_blank" href="https://icons8.com/icon/39292/jenkins">Jenkins</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> --> 
 
 ## PROJECTS
 
