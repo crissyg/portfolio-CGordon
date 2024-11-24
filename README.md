@@ -33,7 +33,7 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/AndroidAppGitCheat.gif" width="100%" />
+            <img src="images/AndroidAppGitCheat.gif" />
         </p>
     </td>
 </tr>
@@ -45,19 +45,19 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/SimulatorScreenRecordingDotDrop.gif" width="100%" />
+            <img src="images/SimulatorScreenRecordingDotDrop.gif" />
         </p>
     </td>
 </tr>
 <tr>
     <td> 
         <strong>Title </strong>: KidCal<br><br>
-        <strong>Description</strong>: This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. It calculates no negative numbers and the largest number calculated is 13 as it has a lot of restrictions to that age group its catered for..<br><br> 
+        <strong>Description</strong>: This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. <br><br> 
         <strong>Language</strong>: Java, MySQL(Backend Database)
     </td>
     <td>
         <p align="center">
-            <img src="images/AndroidAppKidCal.gif" width="100%" />
+            <img src="images/AndroidAppKidCal.gif"/>
         </p>
     </td>
 </tr>
