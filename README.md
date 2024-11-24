@@ -7,12 +7,12 @@
 <br>
 
 ## EDUCATION
--  **Master of Science, Application Development - Information Technology 08/2017**<br>
+-  **Master of Science, Application Development - Information Technology**<br>
     Nova Southeastern University Davie, FL <br>
 
     _Core Courses: Mobile Application Development in iOS (Swift) and Android, Software Development (Java, Python & C++), Database & System Integration and Administration, Platform       and Network Technologies, Security Technologies_ <br>
 
--  **Bachelor of Science, Computer Science 08/2014** <br>
+-  **Bachelor of Science, Computer Science** <br>
   Nova Southeastern University Davie, FL
 
 
@@ -33,7 +33,7 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/AndroidAppGitCheat.gif" width="60%" />
+            <img src="images/AndroidAppGitCheat.gif" width="100%" />
         </p>
     </td>
 </tr>
@@ -45,7 +45,7 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/SimulatorScreenRecordingDotDrop.gif" width="60%" />
+            <img src="images/SimulatorScreenRecordingDotDrop.gif" width="100%" />
         </p>
     </td>
 </tr>
@@ -57,7 +57,7 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/AndroidAppKidCal.gif" width="60%" />
+            <img src="images/AndroidAppKidCal.gif" width="100%" />
         </p>
     </td>
 </tr>
