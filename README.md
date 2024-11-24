@@ -58,4 +58,4 @@
 </table>
 
 ## CONTACT
-<p><a href="crissyg.tina@gmail.com">Send Email</a></p>
+<p><a href="mailto:crissyg.tina@gmail.com">Send Email</a></p>
