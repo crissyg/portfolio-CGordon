@@ -21,24 +21,45 @@
 
 ## PROJECTS
 
-**Title**: GitCHEAT<br>
-**Description**: GitCheat provides a quick reference to commonly used Git commands that are used for source control.<br>
-**Language**: Java, Google Firebase(Backend service)<br>
-<p align="center">
-<img src="images/AndroidAppGitCheat.gif" width="30%"/> <br>
-</p>
-
-**Title**: DotDrop<br>
-**Description**: An iOS DotDrop Game. A game where the player must try to spin the color wheel to match with the color of the dot that's dropping to gain points.<br>
-**Language**: Swift, XCode<br>
-<p align="center">
-<img src="images/SimulatorScreenRecordingDotDrop.gif" width="30%"/> <br>
-</p>
-
-**Title**: KidCal<br>
-**Description**:This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. It calculates no negative numbers and the largest number calculated is 13 as it has a lot of restrictions to that age group its catered for.<br>
-**Language**: Java<br>
-<p align="center">
-<img src="images/AndroidAppKidCal.gif" width="30%"/><br>
-</p>
+<table> <tr>
+    <!-- <!-- <th>Table header column 1</th> -->
+    <!-- <th>Table header column 2</th> -->
+</tr>
+<tr>
+    <td> 
+        <strong>Title </strong>: GitCHEAT<br><br>
+        <strong>Description</strong>: GitCheat provides a quick reference to commonly used Git commands that are used for source control.<br><br> 
+        <strong>Language</strong>: Java, Google Firebase(Backend service)
+    </td>
+    <td>
+        <p align="center">
+            <img src="images/AndroidAppGitCheat.gif" width="60%" />
+        </p>
+    </td>
+</tr>
+<tr>
+    <td> 
+        <strong>Title </strong>: DotDrop<br><br>
+        <strong>Description</strong>: An iOS DotDrop Game. A game where the player must try to spin the color wheel to match with the color of the dot that's dropping to gain points.<br><br> 
+        <strong>Language</strong>: Swift, XCode
+    </td>
+    <td>
+        <p align="center">
+            <img src="images/SimulatorScreenRecordingDotDrop.gif" width="60%" />
+        </p>
+    </td>
+</tr>
+<tr>
+    <td> 
+        <strong>Title </strong>: KidCal<br><br>
+        <strong>Description</strong>: This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. It calculates no negative numbers and the largest number calculated is 13 as it has a lot of restrictions to that age group its catered for..<br><br> 
+        <strong>Language</strong>: Java, MySQL(Backend Database)
+    </td>
+    <td>
+        <p align="center">
+            <img src="images/AndroidAppKidCal.gif" width="60%" />
+        </p>
+    </td>
+</tr>
+</table>
 
