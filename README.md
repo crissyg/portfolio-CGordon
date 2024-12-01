@@ -1,4 +1,4 @@
-# SOFTWARE ENGINEER
+# SOFTWARE ENGINEER 
 
 ## TECHNICAL SKILLS
 
@@ -12,6 +12,7 @@
 
 -  **Bachelor of Science, Computer Science** <br>
   Nova Southeastern University Davie, FL<br>
+
 
 ## PROJECTS
 
@@ -70,7 +71,3 @@
     </td>
 </tr>
 </table>
-
-
-## CONTACT
-<p><a href="mailto:crissyg.tina@gmail.com">Send Email</a></p>
