@@ -18,50 +18,50 @@
 
 <table> 
     <tr>
-        <td> <br><br>
+        <td valign="top" width="40%"> 
             <strong>Title </strong>: <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a> <br><br>
             <strong>Description</strong>: Frontend AirBNB WebAPP built with REACT JS and deployed via Firebase. Mimics funtionality of AirBNB's Frontend. No rights reserved - this is a demo<br><br> 
             <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br><br><br>
         </td>
-        <td>
+        <td width="40%">
             <p align="center">
                 <img src="images/airBNBClone.gif" width="100%" />
             </p>
         </td>
     </tr>
     <tr>
-        <td> 
+        <td valign="top"> 
             <strong>Title </strong>: GitCHEAT<br><br>
             <strong>Description</strong>: GitCheat provides a quick reference to commonly used Git commands that are used for source control.<br><br> 
             <strong>Programming Language(s) and/or Dev Tools used</strong>: Java, Google Firebase(Backend service)
         </td>
         <td>
             <p align="center">
-                <img src="images/AndroidAppGitCheat.gif" />
+                <img width="50%" src="images/AndroidAppGitCheat.gif" />
             </p>
         </td>
     </tr>
     <tr>
-        <td> 
+        <td valign="top"> 
             <strong>Title </strong>: DotDrop<br><br>
             <strong>Description</strong>: An iOS DotDrop Game. A game where the player must try to spin the color wheel to match with the color of the dot that's dropping to gain points.<br><br> 
             <strong>Programming Language(s) and/or Dev Tools used</strong>: Swift, XCode <br><br>
         </td>
         <td>
             <p align="center">
-                <img src="images/SimulatorScreenRecordingDotDrop.gif" />
+                <img width="50%"src="images/SimulatorScreenRecordingDotDrop.gif" />
             </p>
         </td>
     </tr>
     <tr>
-        <td> 
+        <td valign="top"> 
             <strong>Title </strong>: KidCal<br><br>
             <strong>Description</strong>: This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. <br><br> 
             <strong>Language</strong>: Java, MySQL(Backend Database)
         </td>
         <td>
             <p align="center">
-                <img src="images/AndroidAppKidCal.gif"/>
+                <img width="50%" src="images/AndroidAppKidCal.gif"/>
             </p>
         </td>
     </tr>
