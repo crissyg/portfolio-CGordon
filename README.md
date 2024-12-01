@@ -18,10 +18,10 @@
 
 <table> 
     <tr>
-        <td> 
+        <td> <br><br>
             <strong>Title </strong>: <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a> <br><br>
             <strong>Description</strong>: Frontend AirBNB WebAPP built with REACT JS and deployed via Firebase. Mimics funtionality of AirBNB's Frontend. No rights reserved - this is a demo<br><br> 
-            <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br>
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br><br><br>
         </td>
         <td>
             <p align="center">
