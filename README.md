@@ -8,7 +8,7 @@
 -  **Master of Science, Application Development - Information Technology**<br>
     Nova Southeastern University Davie, FL <br>
 
-    _Core Courses: Mobile Application Development in iOS (Swift) and Android, Software Development (Java, Python & C++), Database & System Integration and Administration, Platform       and Network Technologies, Security Technologies_ <br>
+    _Core Courses: Mobile Application Development in iOS (Swift) and Android, Software Development (Java, Python & C++), Database & System Integration and Administration, Platform and Network Technologies, Security Technologies_ <br>
 
 -  **Bachelor of Science, Computer Science** <br>
   Nova Southeastern University Davie, FL<br>
@@ -19,11 +19,25 @@
     <!-- <!-- <th>Table header column 1</th> -->
     <!-- <th>Table header column 2</th> -->
 </tr>
+
+<tr>
+    <td> 
+        <strong>Title </strong>: AirBNB-Clone<br><br>
+        <strong>Description</strong>: Frontend AirBNB WebAPP built with REACT JS and deployed via Firebase. Mimics funtionality of AirBNB's Frontend. No rights reserved - this is a demo<br><br> 
+        <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br> 
+        <strong>URL DEMO: <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a> 
+    </td>
+    <td>
+        <p align="center">
+            <img src="images/airBNBClone.mov" />
+        </p>
+    </td>
+</tr>
 <tr>
     <td> 
         <strong>Title </strong>: GitCHEAT<br><br>
         <strong>Description</strong>: GitCheat provides a quick reference to commonly used Git commands that are used for source control.<br><br> 
-        <strong>Language</strong>: Java, Google Firebase(Backend service)
+        <strong>Programming Language(s) and/or Dev Tools used</strong>: Java, Google Firebase(Backend service)
     </td>
     <td>
         <p align="center">
@@ -35,7 +49,7 @@
     <td> 
         <strong>Title </strong>: DotDrop<br><br>
         <strong>Description</strong>: An iOS DotDrop Game. A game where the player must try to spin the color wheel to match with the color of the dot that's dropping to gain points.<br><br> 
-        <strong>Language</strong>: Swift, XCode
+        <strong>Programming Language(s) and/or Dev Tools used</strong>: Swift, XCode
     </td>
     <td>
         <p align="center">
