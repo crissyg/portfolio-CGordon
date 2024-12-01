@@ -25,7 +25,7 @@
         <strong>Title </strong>: AirBNB-Clone<br><br>
         <strong>Description</strong>: Frontend AirBNB WebAPP built with REACT JS and deployed via Firebase. Mimics funtionality of AirBNB's Frontend. No rights reserved - this is a demo<br><br> 
         <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br>
-        <strong>URL DEMO: <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a>
+        <strong>URL DEMO</strong> <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a>
     </td>
     <td>
         <p align="center">
