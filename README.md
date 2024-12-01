@@ -29,7 +29,7 @@
     </td>
     <td>
         <p align="center">
-            <img src="images/airBNBClone.mov" />
+            <img src="images/airBNBClone.gif" />
         </p>
     </td>
 </tr>
