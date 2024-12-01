@@ -49,7 +49,7 @@
         </td>
         <td>
             <p align="center">
-                <img width="50%"src="images/SimulatorScreenRecordingDotDrop.gif" />
+                <img width="50%" src="images/SimulatorScreenRecordingDotDrop.gif" />
             </p>
         </td>
     </tr>
