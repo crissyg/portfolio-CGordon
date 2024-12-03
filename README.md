@@ -59,7 +59,7 @@
         <td valign="top"> 
             <strong>Title </strong>: KidCal<br><br>
             <strong>Description</strong>: This is a simple calculator with basic operations such as addition, subtraction and it includes a colorful number pad from 1 to 9. All the numeric and operation buttons are audio embedded with a childish robotic voice. <br><br> 
-            <strong>Language</strong>: Java, MySQL(Backend Database)
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: Java, MySQL(Backend Database)
         </td>
         <td>
             <p align="center">
