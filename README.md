@@ -41,7 +41,7 @@
         </td>
         <td width="40%">
             <p align="center">
-                <img src="" width="100%" />
+                <img src="images/logINDemo.gif" width="100%" />
             </p>
         </td>
     </tr>
