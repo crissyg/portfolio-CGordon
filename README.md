@@ -45,6 +45,20 @@
             </p>
         </td>
     </tr>
+        <tr>
+        <td valign="top" width="40%"> 
+            <strong>Title </strong>: Speech to Text <br><br>
+            <strong>Description</strong>: This Python script converts your speech-to-text via mic/speakers on your PC and saves the output of the speech to a text file. <br><br> 
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: Python3, PyAudio, SpeechRecognition<br><br>
+            <a href="https://github.com/crissyg/speech_to_text">View on GitHub</a> <br><br> 
+            <br>
+        </td>
+        <td width="40%">
+            <p align="center">
+                <img src="images/speechToTextDemo.gif" width="100%" />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td valign="top"> 
             <strong>Title </strong>: GitCHEAT<br><br>
