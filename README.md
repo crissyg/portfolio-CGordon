@@ -98,7 +98,7 @@
 </table>
 
 ## GitHub Repos
-<p><a href="https://github.com/crissyg">GitHub Repos</a></p>
+<p>View more of my <a href="https://github.com/crissyg">GitHub Repos</a></p>
 
 ## CONTACT
 <p><a href="mailto:crissyg.tina@gmail.com">Send Email</a></p>
