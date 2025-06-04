@@ -33,6 +33,20 @@
     </tr>
     <tr>
         <td valign="top" width="40%"> 
+            <strong>Title </strong>: <a href="https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4">Pulse Tracker</a> <br><br>
+            <strong>Description</strong>: An iOS health monitoring app focused on heart rate tracking and pulse analysis, built with SwiftUI.<br><br> 
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: Swift, iOS, iPhone<br><br>
+            <a href="https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4"> Interactive Demo</a> <br><br> 
+            <br>
+        </td>
+        <td width="40%">
+            <p align="center">
+                <img src="https://appetize.io/embed/b_orgczisbezjgfyzahlu3ihqja4" width="100%" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="40%"> 
             <strong>Title </strong>: Auto-login BOT <br><br>
             <strong>Description</strong>: Auto-login bot that automatically logs-in a user via the user's preferred log-in webpage on Google Chrome.<br><br> 
             <strong>Programming Language(s) and/or Dev Tools used</strong>: Python, Chromedriver, Selenium webdriver, Chrome<br><br>
