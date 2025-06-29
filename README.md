@@ -19,15 +19,31 @@
 <table> 
     <tr>
         <td valign="top" width="40%"> 
-            <strong>Title </strong>: <a href="https://airbnb-clone-ab2ce.web.app">Air-BNB Clone</a> <br><br>
+            <strong>Title </strong>: Air-BNB Clone <br><br>
             <strong>Description</strong>: Frontend AirBNB WebAPP built with REACT JS and deployed via Firebase. Mimics funtionality of AirBNB's Frontend. No rights reserved - this is a demo<br><br> 
             <strong>Programming Language(s) and/or Dev Tools used</strong>: JavaScript, HTML, CSS, Firebase(for web app deployment)<br><br>
             <a href="https://github.com/crissyg/Airbnb-clone">View on GitHub</a> <br><br> 
+            <a href="https://airbnb-clone-ab2ce.web.app4"> Interactive Demo</a> <br><br>
             <br>
         </td>
         <td width="40%">
             <p align="center">
                 <img src="images/airBNBClone.gif" width="100%" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="40%"> 
+            <strong>Title </strong>: <a href="https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4">Pulse Tracker</a> <br><br>
+            <strong>Description</strong>: An iOS health monitoring app focused on heart rate tracking and pulse analysis, built with SwiftUI.<br><br> 
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: Swift, XCode<br><br>
+            <a href="https://github.com/crissyg/PulseTrack">View on GitHub</a> <br><br> 
+            <a href="https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4"> Interactive Demo</a> <br><br>
+            <br>
+        </td>
+        <td width="40%">
+            <p align="center">
+                <img src="images/PulseTracker.gif" width="50%" />
             </p>
         </td>
     </tr>
@@ -81,7 +97,23 @@
             </p>
         </td>
     </tr>
+    <tr>
+        <td valign="top" width="40%"> 
+            <strong>Title </strong>: Speech to Text <br><br>
+            <strong>Description</strong>: This Python script converts your speech-to-text via mic/speakers on your PC and saves the output of the speech to a text file. <br><br> 
+            <strong>Programming Language(s) and/or Dev Tools used</strong>: Python3, PyAudio, SpeechRecognition<br><br>
+            <br>
+        </td>
+        <td width="40%">
+            <p align="center">
+                <a href="https://github.com/crissyg/speech_to_text">View on GitHub</a>
+            </p>
+        </td>
+    </tr>
 </table>
+
+## GitHub Repos
+<p>View more of my <a href="https://github.com/crissyg">GitHub Repos</a></p>
 
 ## CONTACT
 <p><a href="mailto:crissyg.tina@gmail.com">Send Email</a></p>
