@@ -1,8 +1,68 @@
 title: CHRISTINA GORDON
-logo: /images/profile.png
+logo: /assets/images/profile.png
 description: Hi! My name is Christina and welcome to my page, my domain and where you can learn more about me.
 show_downloads: true
-# remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0 
+# _config.yml
+# Base URL configuration
+# Set to "" for local development, "/portfolio-CGordon" for GitHub Pages subdirectory
+baseurl: ""
+url: "https://crissyg.github.io"
+#Jekyll plugins - all supported by GitHub Pages
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme    # Enables remote theme functionality
+  - jekyll-seo-tag        # Automatic SEO meta tags
+  - jekyll-sitemap        # XML sitemap generation
+  - jekyll-feed           # RSS/Atom feed generation
+
+# Custom collections configuration
+# Projects collection stores individual project markdown files
+collections:
+  projects:
+    output: true                    # Generate individual pages for each project
+    permalink: /projects/:name/     # URL structure for project pages
+
+# Default values for different content types
+# Ensures consistent layout and metadata across all pages
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
+      author: "Crissy Gordon"
+
+# Navigation menu items
+# Used by layout templates to generate consistent navigation
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about.html"
+  - name: "Skills"
+    link: "/skills.html"
+  - name: "Projects"
+    link: "/projects.html"
+  - name: "Experience"
+    link: "/experience.html"
+  - name: "Contact"
+    link: "/contact.html"
+
+# SEO and analytics
+google_analytics: # Add GA tracking ID here
+lang: en-US
+timezone: America/New_York
+
+# Social media and contact information
+# Used for footer links and contact page
+social:
+  github: crissyg
+  linkedin: https://www.linkedin.com/in/christina-gordon-fl
+  email: crissyg.tina@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
