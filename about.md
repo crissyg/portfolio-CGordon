@@ -3,7 +3,7 @@ layout: default
 title: "About Me"
 ---
 
-# About Crissy Gordon
+# About Me
 
 ## 👨‍💻 Professional Summary
 
