@@ -7,7 +7,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 # _config.yml
 # Base URL configuration
 # Set to "" for local development, "/portfolio-CGordon" for GitHub Pages subdirectory
-baseurl: ""
+baseurl: "/portfolio-CGordon"
 url: "https://crissyg.github.io"
 #Jekyll plugins - all supported by GitHub Pages
 plugins:
