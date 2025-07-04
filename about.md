@@ -64,5 +64,5 @@ I'm always interested in challenging projects that push the boundaries of what's
 - Commitment to delivering high-quality solutions on time
 
 ---
-
- <a href="/index.html" class="btn btn-outline">← Back to Home</a>
+**[← Back to Home](index.md)**
+ <!-- <a href="/index.html" class="btn btn-outline">← Back to Home</a> -->
