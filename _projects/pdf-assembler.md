@@ -1,7 +1,7 @@
 ---
 title: "PDF Assembler"
 description: "A Python tool for assembling multiple PDF files into a single document with customizable ordering and metadata management"
-category: "Backend"
+category: "Miscellaneous"
 technologies: ["Python", "PyPDF2", "CLI"]
 github: "https://github.com/crissyg/pdf_Assembler"
 demo: ""
