@@ -6,7 +6,6 @@ technologies: ["Python", "PyPDF2", "CLI"]
 github: "https://github.com/crissyg/pdf_Assembler"
 demo: ""
 featured: false
-url: /projects/pdf-assembler/
 order: 8
 status: "Complete"
 deployment_platform: "Self-hosted"
