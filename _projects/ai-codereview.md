@@ -6,7 +6,6 @@ technologies: ["Python", "JavaScript", "FastAPI", "HuggingFace", "GitHub API", "
 github: "https://github.com/crissyg/ai-codereview"
 demo: ""
 featured: true
-url: /projects/pool-business-scheduler/
 order: 2
 status: "In Development"
 deployment_platform: "Docker"
