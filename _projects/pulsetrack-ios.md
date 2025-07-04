@@ -104,7 +104,9 @@ PulseTrack is a comprehensive iOS health monitoring application that focuses on 
 - Apple ecosystem integration (Watch, Health, CloudKit)
 
 <!-- Navigation footer -->
-<div class="page-footer">
+**[← Back to Projects | ](projects.md)[← Back to Home](index.md)**
+
+<!-- <div class="page-footer">
   <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
   <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div>
+</div> -->

@@ -85,7 +85,9 @@ An intelligent code review platform that revolutionizes the software development
 - Reduction in post-deployment bugs
 
 <!-- Navigation footer -->
-<div class="page-footer">
+**[← Back to Projects | ](projects.md)[← Back to Home](index.md)**
+
+<!-- <div class="page-footer">
   <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
   <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div>
+</div> -->
