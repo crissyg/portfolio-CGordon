@@ -12,11 +12,11 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
 ## 🔍 Filter by Category
 
 <div class="filter-buttons" style="margin: 20px 0; text-align: center;">
-  <button onclick="filterProjects('All')" class="filter-btn active" id="filter-all">🎯 All Projects</button>
-  <button onclick="filterProjects('Frontend')" class="filter-btn" id="filter-frontend">🎨 Frontend</button>
-  <button onclick="filterProjects('Backend')" class="filter-btn" id="filter-backend">⚙️ Backend</button>
-  <button onclick="filterProjects('Mobile')" class="filter-btn" id="filter-mobile"> 📱 🤖 Mobile</button>
-  <button onclick="filterProjects('Miscellaneous')" class="filter-btn" id="filter-misc"> 🔧 Miscellaneous</button>
+  <button onclick="filterProjects('All')" class="filter-btn active" data-filter="All">🎯 All Projects</button>
+  <button onclick="filterProjects('Frontend')" class="filter-btn" data-filter="Frontend">🎨 Frontend</button>
+  <button onclick="filterProjects('Backend')" class="filter-btn" data-filter="Backend">⚙️ Backend</button>
+  <button onclick="filterProjects('Mobile')" class="filter-btn" data-filter="Mobile">📱 Mobile</button>
+  <button onclick="filterProjects('Miscellaneous')" class="filter-btn" data-filter="Miscellaneous">🔧 Miscellaneous</button>
 </div>
 
 <div id="project-count" style="text-align: center; margin: 10px 0; color: #666;"></div>
@@ -32,7 +32,11 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
     <div class="project-header" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 15px;">
       <div>
         <h3 style="margin: 0 0 10px 0; color: #0366d6;">
+          {% if project.url %}
           <a href="{{ project.url }}" style="text-decoration: none; color: inherit;">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
         </h3>
         <div class="project-meta" style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
           <span class="category-badge" style="background: #f1f8ff; color: #0366d6; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">
@@ -49,7 +53,7 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
           {% endif %}
           {% if project.featured %}
           <span class="featured-badge" style="background: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">
-            Featured
+            ⭐ Featured
           </span>
           {% endif %}
         </div>
@@ -78,23 +82,19 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
 
     <!-- Action Buttons -->
     <div class="project-actions" style="display: flex; gap: 10px; flex-wrap: wrap;">
-      {% if project.demo and project.live_demo %}
+      {% if project.demo and project.demo != "" %}
         <a href="{{ project.demo }}" target="_blank" rel="noopener noreferrer" class="demo-btn" style="background: #28a745; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
           🚀 Live Demo
         </a>
-      {% elsif project.demo %}
-        <a href="{{ project.demo }}" target="_blank" rel="noopener noreferrer" class="demo-btn" style="background: #17a2b8; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
-          🚀 Demo
-        </a>
       {% else %}
         <span class="demo-planned" style="background: #6c757d; color: white; padding: 8px 16px; border-radius: 6px; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
-          🚀 Demo Planned
+          ⏳ Demo Planned
         </span>
       {% endif %}
 
-      {% if project.github %}
+      {% if project.github and project.github != "" %}
         <a href="{{ project.github }}" target="_blank" rel="noopener noreferrer" class="github-btn" style="background: #24292e; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
-           🖥️ GitHub
+          🐙 GitHub
         </a>
       {% endif %}
 
@@ -104,7 +104,6 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
         </a>
       {% endif %}
     </div>
-
   </div>
 {% endfor %}
 </div>
@@ -112,6 +111,7 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
 <div id="no-projects" style="display: none; text-align: center; padding: 40px; color: #586069;">
   <h3>No projects found</h3>
   <p>Try selecting a different category filter.</p>
+  <button onclick="filterProjects('All')" style="background: #0366d6; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">Show All Projects</button>
 </div>
 
 ---
@@ -133,6 +133,7 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
 .filter-btn:hover {
   background: #e1e4e8;
   border-color: #c6cbd1;
+  transform: translateY(-1px);
 }
 
 .filter-btn.active {
@@ -147,12 +148,24 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
 
 .project-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.project-actions a:hover,
+.project-actions span:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 @media (max-width: 768px) {
   .filter-buttons {
     text-align: left;
+  }
+  
+  .filter-btn {
+    margin: 0 5px 5px 0;
+    padding: 6px 12px;
+    font-size: 13px;
   }
   
   .project-actions {
@@ -162,12 +175,32 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
   .project-actions a,
   .project-actions span {
     text-align: center;
+    justify-content: center;
+  }
+  
+  .recommended-projects {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .project-card {
+    padding: 15px;
+    margin: 15px 0;
+  }
+  
+  .project-header {
+    flex-direction: column;
+  }
+  
+  .project-meta {
+    margin-top: 10px;
   }
 }
 </style>
 
 <script>
-// Project filtering functionality
+// Project filtering functionality with improved error handling
 function filterProjects(category) {
   const cards = document.querySelectorAll('.project-card');
   const noProjectsMsg = document.getElementById('no-projects');
@@ -175,17 +208,27 @@ function filterProjects(category) {
   let visibleCount = 0;
 
   // Update active filter button
-  document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-  document.getElementById('filter-' + category.toLowerCase()).classList.add('active');
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.getAttribute('data-filter') === category) {
+      btn.classList.add('active');
+    }
+  });
 
-  // Filter project cards
+  // Filter project cards with case-insensitive matching
   cards.forEach(card => {
-    const cardCategory = card.dataset.category;
-    if (category === 'All' || cardCategory === category) {
+    const cardCategory = card.getAttribute('data-category');
+    const shouldShow = category === 'All' || 
+                      cardCategory === category || 
+                      cardCategory.toLowerCase() === category.toLowerCase();
+    
+    if (shouldShow) {
       card.style.display = '';
+      card.style.opacity = '1';
       visibleCount++;
     } else {
       card.style.display = 'none';
+      card.style.opacity = '0';
     }
   });
 
@@ -198,14 +241,32 @@ function filterProjects(category) {
     const totalProjects = cards.length;
     const countText = category === 'All' 
       ? `Showing all ${totalProjects} projects`
-      : `Showing ${visibleCount} of ${totalProjects} projects`;
+      : `Showing ${visibleCount} of ${totalProjects} projects in ${category}`;
     countDisplay.textContent = countText;
   }
+
+  // Smooth scroll to projects list after filtering
+  setTimeout(() => {
+    document.getElementById('projects-list').scrollIntoView({ 
+      behavior: 'smooth', 
+      block: 'start' 
+    });
+  }, 100);
 }
 
 // Initialize page with all projects visible
 document.addEventListener('DOMContentLoaded', function() {
   filterProjects('All');
+  
+  // Add keyboard navigation for filter buttons
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        this.click();
+      }
+    });
+  });
 });
 
 // Smooth scrolling for anchor links
@@ -221,11 +282,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     }
   });
 });
+
+// Performance optimization: debounce rapid filter clicks
+let filterTimeout;
+function debouncedFilter(category) {
+  clearTimeout(filterTimeout);
+  filterTimeout = setTimeout(() => filterProjects(category), 100);
+}
 </script>
 
-<!-- Navigation footer -->
-**[← Back to Home](index.md)**
-
-<!-- <div class="page-footer">
-  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div> -->
+<div style="text-align: center; margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8;">
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
+  </a>
+</div>
