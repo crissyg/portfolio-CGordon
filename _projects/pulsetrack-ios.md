@@ -4,9 +4,10 @@ description: "An iOS health monitoring app focused on heart rate tracking and pu
 category: "Mobile"
 technologies: ["Swift", "SwiftUI", "HealthKit", "Core Data", "Xcode"]
 github: "https://github.com/crissyg/PulseTrack"
+live_demo: true
 demo: "https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4"
 featured: true
-order: 1
+order: 3
 status: "Complete"
 deployment_platform: "iOS App Store"
 ---
@@ -104,5 +105,6 @@ PulseTrack is a comprehensive iOS health monitoring application that focuses on 
 
 <!-- Navigation footer -->
 <div class="page-footer">
-  <a href="projects.html" class="btn btn-outline">← Back to Projects</a>
+  <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
+  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
 </div>

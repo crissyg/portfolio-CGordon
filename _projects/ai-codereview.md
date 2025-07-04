@@ -84,3 +84,8 @@ An intelligent code review platform that revolutionizes the software development
 - Improvement in code quality metrics
 - Reduction in post-deployment bugs
 
+<!-- Navigation footer -->
+<div class="page-footer">
+  <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
+  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
+</div>

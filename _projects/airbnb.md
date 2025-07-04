@@ -55,5 +55,6 @@ Experience the application live: [Airbnb Clone Demo](https://airbnb-clone-ab2ce.
 
 <!-- Navigation footer -->
 <div class="page-footer">
-  <a href="projects.html" class="btn btn-outline">← Back to Projects</a>
+  <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
+  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
 </div>
