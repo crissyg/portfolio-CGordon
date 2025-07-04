@@ -192,10 +192,16 @@ title: Experience
 *This experience overview demonstrates my growth from Co-op to an experienced Software engineer. I'm always eager to take on new challenges and continue expanding my technical expertise.*
 
 <!-- Navigation footer -->
-**[View Technical Skills | ](skills.md)[See My Projects | ](projects.md)[← Back to Home](index.md)**
+<!-- **[View Technical Skills | ](skills.md)[See My Projects | ](projects.md)[← Back to Home](index.md)** -->
 
-<!-- <div class="page-footer">
-  <a href="skills.html" class="btn btn-primary">View Technical Skills</a> |
-  <a href="projects.html" class="btn btn-outline">See My Projects</a> |
-  <a href="index.html" class="btn btn-outline">← Back to Home</a>
-</div> -->
+<div style="margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8; display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/skills.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    View Technical Skills
+  </a>
+  <a href="{{ site.baseurl }}/projects.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    See My Projects
+  </a>
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
+  </a>
+</div>
