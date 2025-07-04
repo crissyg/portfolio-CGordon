@@ -13,7 +13,7 @@ A modern, responsive portfolio showcasing software engineering projects across f
 
 ## 🛠️ Tech Stack
 
-- **Static Site Generator**: Jekyll
+- **Static Site Generator**: Jekyll, Ruby
 - **Hosting**: GitHub Pages
 - **Theme**: Minimal (remote theme)
 - **Styling**: SCSS with custom variables
