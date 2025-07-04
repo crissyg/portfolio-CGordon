@@ -137,9 +137,3 @@ My expertise spans the entire software engineering spectrum, from developing rob
 
 <!-- Navigation footer -->
 **[← View My Projects| ](projects.md)[← Work Experience | ](experience.md)[← Back to Home](index.md)**
-<!-- 
-<div class="page-footer">
-  <a href="/projects.html" class="btn btn-primary">View My Projects</a> |
-  <a href="/experience.html" class="btn btn-outline">Work Experience</a> |
-  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div> -->
