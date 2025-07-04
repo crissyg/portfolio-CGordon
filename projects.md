@@ -99,7 +99,7 @@ Explore my work across **Frontend**, **Backend**, **Mobile**, and **Cloud** tech
       {% endif %}
 
       {% if project.url and project.url != project.github %}
-        <a href="{{ project.url }}" class="details-btn" style="background: #0366d6; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
+        <a href="{{ project.url | relative_url }}" class="details-btn" style="background: #0366d6; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 5px;">
           📄 Details
         </a>
       {% endif %}
