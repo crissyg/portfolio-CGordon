@@ -136,4 +136,4 @@ My expertise spans the entire software engineering spectrum, from developing rob
 *This skills overview is regularly updated to reflect my current expertise and learning progress.*
 
 <!-- Navigation footer -->
-**[← View My Projects| ](projects.md)[← Work Experience | ](experience.md)[← Back to Home](index.md)**
+**[← View My Projects | ](projects.md)[← Work Experience | ](experience.md)[← Back to Home](index.md)**
