@@ -139,10 +139,13 @@ My expertise spans the entire software engineering spectrum, from developing rob
 <!-- **[← View My Projects| ](projects.md)[← Work Experience | ](experience.md)[← Back to Home](index.md)** -->
 
 <div style="text-align: center; margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8;">
-  <a href="{{ site.baseurl }}/projects.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;"> View My Projects 
+  <a href="{{ site.baseurl }}/projects.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    View My Projects 
   </a>
-  <a href="{{ site.baseurl }}/experience.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;"> Work Experience 
+  <a href="{{ site.baseurl }}/experience.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    Work Experience 
   </a>
-  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;"> ← Back to Home
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
   </a>
 </div>
