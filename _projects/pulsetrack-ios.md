@@ -7,7 +7,6 @@ github: "https://github.com/crissyg/PulseTrack"
 live_demo: true
 demo: "https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4"
 featured: true
-url: /projects/pulsetrack-ios/
 order: 3
 status: "Complete"
 deployment_platform: "iOS App Store"
