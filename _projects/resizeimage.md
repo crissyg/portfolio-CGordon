@@ -1,7 +1,7 @@
 ---
 title: "ResizeImage"
 description: "Node.js application that leverages the Jimp library to resize images efficiently with detailed process logging and error handling"
-category: "Backend"
+category: "Miscellaneous"
 technologies: ["Node.js", "Jimp", "JavaScript"]
 github: "https://github.com/crissyg/ResizeImage"
 demo: ""
