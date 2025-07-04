@@ -8,7 +8,6 @@ demo: "https://airbnb-clone-ab2ce.web.app/"
 live_demo: true
 deployment_platform: "Firebase Hosting"
 featured: true
-url: /projects/airbnb/
 order: 1
 image: "/assets/images/projects/airbnb-clone.png"
 status: "Live"
