@@ -76,7 +76,7 @@ My expertise spans the entire software engineering spectrum, from developing rob
 - **Terminal**: Cmder, custom aliases and functions, Powershell, Bash, Batch
 
 ### **Cross-Platform**
-- **Xamarian**, **Firebase**
+- **Xamarin**, **Firebase**
 
 ### **Project Management**
 - **Agile Tools**: Jira
