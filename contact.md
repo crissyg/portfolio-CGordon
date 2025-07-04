@@ -139,6 +139,9 @@ Whether it's about a potential collaboration, job opportunity, or just a friendl
 
 *P.S. If you've made it this far, you're clearly thorough – a quality I appreciate in both colleagues and collaborators!*
 
-**[← Back to Home](index.md)**
-
- <!-- <a href="/index.html" class="btn btn-outline">← Back to Home</a> -->
+<!-- **[← Back to Home](index.md)** -->
+<div style="text-align: center; margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8;">
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
+ </a>
+</div>
