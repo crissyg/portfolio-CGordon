@@ -6,7 +6,6 @@ technologies: ["Java", "Android Studio", "MySql", "Material Design"]
 github: "https://github.com/crissyg/PoolBusinessScheduler"
 demo: ""
 featured: true
-url: /projects/pool-business-scheduler/
 order: 6
 status: "Complete"
 deployment_platform: "Google Play Store"
