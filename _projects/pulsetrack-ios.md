@@ -7,6 +7,7 @@ github: "https://github.com/crissyg/PulseTrack"
 live_demo: true
 demo: "https://appetize.io/app/b_orgczisbezjgfyzahlu3ihqja4"
 featured: true
+url: /projects/pulsetrack-ios/
 order: 3
 status: "Complete"
 deployment_platform: "iOS App Store"
@@ -104,9 +105,11 @@ PulseTrack is a comprehensive iOS health monitoring application that focuses on 
 - Apple ecosystem integration (Watch, Health, CloudKit)
 
 <!-- Navigation footer -->
-**[← Back to Projects | ](projects.md)[← Back to Home](index.md)**
-
-<!-- <div class="page-footer">
-  <a href="/projects.html" class="btn btn-outline">← Back to Projects</a>  |
-  <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div> -->
+<div style="margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8; display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/projects.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    View My Projects
+  </a>
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
+  </a>
+</div>

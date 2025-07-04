@@ -6,6 +6,7 @@ technologies: ["Python", "Selenium WebDriver", "ChromeDriver", "Cryptography", "
 github: "https://github.com/crissyg/auto-login-bot"
 demo: "assets/images/logInDemo.gif"
 featured: false
+url: /projects/uto-login-bot/
 order: 4
 status: "Complete"
 deployment_platform: "Self-hosted"
@@ -36,4 +37,11 @@ A sophisticated web automation framework built with Python and Selenium WebDrive
 - Run automation scripts to perform login tasks
 
 <!-- Navigation footer -->
-**[← Back to Projects | ](projects.md)[← Back to Home](index.md)**
+<div style="margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8; display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/projects.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    View My Projects
+  </a>
+  <a href="{{ site.baseurl }}/" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
+    ← Back to Home
+  </a>
+</div>
