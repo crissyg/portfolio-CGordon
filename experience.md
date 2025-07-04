@@ -192,8 +192,10 @@ title: Experience
 *This experience overview demonstrates my growth from Co-op to an experienced Software engineer. I'm always eager to take on new challenges and continue expanding my technical expertise.*
 
 <!-- Navigation footer -->
-<div class="page-footer">
+**[View Technical Skills | ](skills.md)[See My Projects | ](projects.md)[← Back to Home](index.md)**
+
+<!-- <div class="page-footer">
   <a href="skills.html" class="btn btn-primary">View Technical Skills</a> |
   <a href="projects.html" class="btn btn-outline">See My Projects</a> |
   <a href="index.html" class="btn btn-outline">← Back to Home</a>
-</div>
+</div> -->
