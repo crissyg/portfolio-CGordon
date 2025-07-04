@@ -224,6 +224,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 </script>
 
 <!-- Navigation footer -->
-<div class="page-footer">
+**[← Back to Home](index.md)**
+
+<!-- <div class="page-footer">
   <a href="/index.html" class="btn btn-outline">← Back to Home</a>
-</div>
+</div> -->
