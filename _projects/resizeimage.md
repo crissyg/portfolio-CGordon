@@ -6,7 +6,7 @@ technologies: ["Node.js", "Jimp", "JavaScript"]
 github: "https://github.com/crissyg/ResizeImage"
 demo: ""
 featured: false
-url: /projects/_projects/resizeimage/
+url: "/projects/_projects/resizeimage/"
 order: 7
 status: "Complete"
 deployment_platform: "Self-hosted"
