@@ -6,7 +6,6 @@ technologies: ["Python", "Selenium WebDriver", "ChromeDriver", "Cryptography", "
 github: "https://github.com/crissyg/auto-login-bot"
 demo: "assets/images/logInDemo.gif"
 featured: false
-url: /projects/uto-login-bot/
 order: 4
 status: "Complete"
 deployment_platform: "Self-hosted"
