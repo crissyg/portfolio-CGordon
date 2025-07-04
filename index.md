@@ -70,7 +70,7 @@ I'm actively seeking **Python Software Engineer** positions where I can leverage
 
 Ready to discuss your next project or opportunity? 
 
-<a href="contact.html" class="btn btn-primary btn-large">Get In Touch</a>
+- **[Get In Touch!](contact.md)**
 
 ---
 
