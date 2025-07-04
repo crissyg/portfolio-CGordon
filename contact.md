@@ -139,4 +139,6 @@ Whether it's about a potential collaboration, job opportunity, or just a friendl
 
 *P.S. If you've made it this far, you're clearly thorough – a quality I appreciate in both colleagues and collaborators!*
 
- <a href="/index.html" class="btn btn-outline">← Back to Home</a>
+**[← Back to Home](index.md)**
+
+ <!-- <a href="/index.html" class="btn btn-outline">← Back to Home</a> -->
