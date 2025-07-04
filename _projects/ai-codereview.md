@@ -4,7 +4,7 @@ description: "An AI-powered code review platform that automatically analyzes pul
 category: "Backend"
 technologies: ["Python", "JavaScript", "FastAPI", "HuggingFace", "GitHub API", "PostgreSQL"]
 github: "https://github.com/crissyg/ai-codereview"
-demo: ""
+demo: "Demo coming soon"
 featured: true
 order: 2
 status: "In Development"
