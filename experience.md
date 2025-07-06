@@ -87,7 +87,6 @@ title: Experience
       </div>
     </div>
   </div>
-</div>
 
 ---
 
@@ -126,8 +125,8 @@ title: Experience
       <li>Database & System Integration and Administration (Oracle)</li>
       <li>Platform, Network and Security Technologies</li>
     </ul>
-  </div>
 </div>
+
 ---
 
 <!-- Certifications -->
@@ -136,10 +135,11 @@ title: Experience
 <div class="certifications-grid">
   <div class="certification-item">
     <h4>Lean Six Sigma White Belt</h4>
-    <p><strong>Nova Southeastern University, FL</strong> | 2014 | Certificate</p>
+    <p><strong>Nova Southeastern University, FL</strong> | Certificate</p>
     <p>A management methodology that combines the principles of Lean manufacturing and Six Sigma to improve efficiency and quality in business processes. It focuses on eliminating waste, reducing defects, and streamlining processes to enhance customer satisfaction and overall business performance. </p>
     <p><strong>Skills covered:</strong> Understanding Basic Lean Six Sigma Concepts | Participating in Improvement Projects | Promoting a Culture of Continuous Improvement</p>
   </div>
+  
   ---
   <div class="certification-item">
     <h4>LambdaTest Software Testing Professional Certificate</h4>
@@ -153,7 +153,6 @@ title: Experience
     <h4>OpenEDG Python Institute: Programming with Python Professional Certificate</h4>
     <p><strong>Linkedin Learning</strong> | 2024 |<a href="https://www.linkedin.com/learning/certificates/49f9984d2219c030b0ab00971336ba577c1c94a84888a185a93bf08032fa4115">Certificate</a> </p>
     <p><strong>Skills covered:</strong> Software Testing| Software Quality Assurance|Agile Testing</p>
-  </div>
 </div>
 
 ---
