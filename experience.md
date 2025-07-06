@@ -17,7 +17,7 @@ title: Experience
 <!-- Work Experience Timeline -->
 ## 💼 Work Experience
 
-<div class="timeline">
+<!-- <div class="timeline"> -->
   <!-- Current/Recent Position -->
   <div class="timeline-item">
     <div class="timeline-marker"></div>
@@ -52,7 +52,7 @@ title: Experience
       </div>
     </div>
  </div>
-</div>
+<!-- </div> -->
 
   ---
 
@@ -87,7 +87,6 @@ title: Experience
       </div>
     </div>
   </div>
-
 ---
 
 <!-- Education -->
@@ -125,6 +124,7 @@ title: Experience
       <li>Database & System Integration and Administration (Oracle)</li>
       <li>Platform, Network and Security Technologies</li>
     </ul>
+  </div>
 </div>
 
 ---
@@ -139,6 +139,7 @@ title: Experience
     <p>A management methodology that combines the principles of Lean manufacturing and Six Sigma to improve efficiency and quality in business processes. It focuses on eliminating waste, reducing defects, and streamlining processes to enhance customer satisfaction and overall business performance. </p>
     <p><strong>Skills covered:</strong> Understanding Basic Lean Six Sigma Concepts | Participating in Improvement Projects | Promoting a Culture of Continuous Improvement</p>
   </div>
+</div>
   
   ---
   <div class="certification-item">
@@ -185,10 +186,7 @@ title: Experience
 
 ---
 *This experience overview demonstrates my growth from Co-op to an experienced Software engineer. I'm always eager to take on new challenges and continue expanding my technical expertise.*
-
 <!-- Navigation footer -->
-<!-- **[View Technical Skills | ](skills.md)[See My Projects | ](projects.md)[← Back to Home](index.md)** -->
-
 <div style="margin: 40px 0; padding: 20px; border-top: 1px solid #e1e4e8; display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
   <a href="{{ site.baseurl }}/skills.html" style="background: #0366d6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500;">
     View Technical Skills
