@@ -36,7 +36,7 @@ title: Experience
           <li>Led cross-functional teams using Agile methodologies to deliver 2 new major software internal features on schedule, collaborating with hardware and electric engineering teams and utilizing Keysight measurement equipment for RF performance validation and P25 compliance testing.</li>
           <li>Designed and deployed monitoring dashboards and automated test integration suites that increased code coverage by 40% and reduced post-deployment critical bugs by 85%, ensuring 99.9% uptime for emergency response communications.</li>
           <li>Successfully maintained and enhanced embedded firmware tests for legacy portable radios (LMRs) and mobile systems, ensuring compliance with P25 digital radio standards for mission-critical emergency communications infrastructure.</li>
-          <li>Developed comprehensive automation frameworks using for Anddroid OS devices that reduced manual testing cycles by 60% and deployment time by 75%, enabling faster release cycles for legacy portable radio and mobile platform software updates.</li>
+          <li>Developed comprehensive automation frameworks using for Android OS devices that reduced manual testing cycles by 60% and deployment time by 75%, enabling faster release cycles for legacy portable radio and mobile platform software updates.</li>
           <li>Android OS integration projects for next-generation LMR devices, implementing system-level applications that enhanced user experience and operational functionality for mission-critical public safety communications used by 13,000+ LMR networks worldwide</li>
         </ul>
         
@@ -51,7 +51,8 @@ title: Experience
         </div>
       </div>
     </div>
-  </div>
+ </div>
+</div>
 
   ---
 
@@ -86,11 +87,6 @@ title: Experience
       </div>
     </div>
   </div>
-  
-  <!-- Earlier Position -->
-  <div class="timeline-item">
-    
-  </div>
 </div>
 
 ---
@@ -102,7 +98,7 @@ title: Experience
   <div class="education-item">
     <h3>Bachelor of Science in Computer Science</h3>
     <p class="education-meta">
-      <strong>Nova Southeastern University, FL</strong> • 2014
+      <strong>Nova Southeastern University, FL</strong>
     </p>
     
     <h4>Relevant Coursework:</h4>
@@ -119,7 +115,7 @@ title: Experience
   <div class="education-item">
     <h3>Master of Science in Information Technology</h3>
     <p class="education-meta">
-      <strong>Nova Southeastern University, FL</strong> • 2017
+      <strong>Nova Southeastern University, FL</strong>
     </p>
     
     <h4>Relevant Coursework:</h4>
