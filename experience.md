@@ -166,6 +166,15 @@ title: Experience
 </div>
 
 ---
+<div class="certification-item">
+    <h4>CyberSecurity and Oracle Cloud</h4>
+    <p><strong>Oracle University</strong> | 2025 |<a href="https://mylearn.oracle.com/ou/learning-path/discover-and-train-in-cybersecurity/100307
+    ">Learning Badge</a> </p>
+    <p><strong>Skills covered:</strong> Oracle Cloud Security Services | CyberSecurity | Cloud Security Drivers and Challenges</p>
+
+</div>
+
+---
 
 <!-- Open Source & Community -->
 ## 🌟 Open Source & Community
