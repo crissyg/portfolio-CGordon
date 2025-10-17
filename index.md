@@ -13,10 +13,10 @@ Welcome to my portfolio! I'm a passionate software engineer with expertise that 
 
 ## 🚀 What I Do
 
-- **Backend Development**: Python (Flask, FastAPI), REST APIs, microservices
+- **Backend Development**: Python (Flask, FastAPI), REST APIs, Java
 - **Frontend Development**: Node.js,  JavaScript, responsive design
 - **DevOps & Automation**: Jenkins, CI/CD pipelines, Docker, GitHub Actions, JIRA integration, infrastructure automation
-- **Mobile Development**: Android, iOS, cross-platform solutions
+- **Mobile Development**: Android, iOS, Cross-platform solutions
 
 ---
 
@@ -48,21 +48,15 @@ Welcome to my portfolio! I'm a passionate software engineer with expertise that 
 {% endif %}
 {% endfor %}
 
-## 💡 Currently Working On
-
-- **AWS Resource Manager CLI** - Automating cloud infrastructure provisioning
-- **JIRA Sprint Analytics Dashboard** - Data visualization for agile teams  
-
 ---
 
 ## 👩🏽‍💻 Open to Opportunities
 
-I'm actively seeking **Python Software Engineer** positions where I can leverage my expertise in:
+I'm actively seeking **Software Engineer** positions where I can leverage my expertise in:
 
-- **Python, JavaScript or Java** ecosystem and best practices
-- **AWS** cloud services and architecture
+- **Python, JavaScript, Kotlin, Java** ecosystem and best practices
+- **DevOps** with Jenkins automation tools and Docker
 - **JIRA** and agile development workflows
-- **DevOps** with Jenkins automation tools
 
 **Remote-friendly** | **Full-time** | **Contract** opportunities welcome
 
