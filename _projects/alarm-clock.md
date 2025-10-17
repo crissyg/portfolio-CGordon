@@ -6,7 +6,7 @@ technologies: ["Python", "Tkinter", "pygame", "Threading"]
 github: "https://github.com/crissyg/AlarmClock"
 demo: ""
 featured: false
-order: 12
+order: 11
 status: "Complete"
 deployment_platform: "Desktop Application"
 ---
