@@ -120,26 +120,24 @@ title: Experience
 <div class="certifications-grid">
   <div class="certification-item">
     <h4>Lean Six Sigma White Belt</h4>
-    <p><strong>Nova Southeastern University, FL</strong> | Certificate</p>
-    <p>A management methodology that combines the principles of Lean manufacturing and Six Sigma to improve efficiency and quality in business processes. It focuses on eliminating waste, reducing defects, and streamlining processes to enhance customer satisfaction and overall business performance. </p>
-    <p><strong>Skills covered:</strong> Understanding Basic Lean Six Sigma Concepts | Participating in Improvement Projects | Promoting a Culture of Continuous Improvement</p>
+    <p><strong>Nova Southeastern University, FL(Tampa)</strong> | Certificate</p>
+    <p><strong>Skills covered:</strong> Lean Six Sigma Fundamentals | DMAIC Methodology (Define, Measure, Analyze, Improve, Control) | Process Mapping and Value Stream Analysis | Root Cause Analysis | Waste Elimination (Muda, Mura, Muri) | Statistical Process Control | Data-Driven Decision Making | Quality Management Principles | Continuous Improvement (Kaizen) | Team Collaboration in Improvement Projects | Problem-Solving Techniques | Performance Metrics and KPIs </p>
   </div>
 </div>
   
   ---
   <div class="certification-item">
     <h4>LambdaTest Software Testing Professional Certificate</h4>
-    <p><strong>Linkedin Learning</strong> | 2024 |<a href="https://www.linkedin.com/learning/certificates/ff0f73ae1a4dedec0ff4fbaa60e494397d4d626b063e99e23060c4b42fd51e46">Certificate</a> </p>
-    <p><strong>Skills covered:</strong> Python (Programming Language) | Object-Oriented Programming (OOP)</p>
-    
+    <p><strong>Linkedin Learning</strong> | 2024 | <a href="https://www.linkedin.com/learning/certificates/ff0f73ae1a4dedec0ff4fbaa60e494397d4d626b063e99e23060c4b42fd51e46">Certificate</a></p>
+    <p><strong>Skills covered:</strong> Cross-Browser Testing | Selenium WebDriver | Test Automation Frameworks | Continuous Integration/Continuous Deployment (CI/CD) | Test Case Design | Regression Testing | Test Execution and Reporting | Debugging and Troubleshooting | API Testing | Cloud-Based Testing Platforms | Test Scripting | Quality Assurance Best Practices | Parallel Testing | Test Environment Configuration | Defect Tracking and Management</p>
   </div>
 
 --- 
   <div class="certification-item">
     <h4>OpenEDG Python Institute: Programming with Python Professional Certificate</h4>
-    <p><strong>Linkedin Learning</strong> | 2024 |<a href="https://www.linkedin.com/learning/certificates/49f9984d2219c030b0ab00971336ba577c1c94a84888a185a93bf08032fa4115">Certificate</a> </p>
-    <p><strong>Skills covered:</strong> Software Testing| Software Quality Assurance|Agile Testing</p>
-</div>
+    <p><strong>Linkedin Learning</strong> | 2024 | <a href="https://www.linkedin.com/learning/certificates/49f9984d2219c030b0ab00971336ba577c1c94a84888a185a93bf08032fa4115">Certificate</a></p>
+    <p><strong>Skills covered:</strong> Python Programming | Object-Oriented Programming (OOP) | Data Structures (Lists, Tuples, Dictionaries, Sets) | Algorithm Design | Control Flow and Loops | Functions and Decorators | Exception Handling and Debugging | File Management and I/O Operations | Python Modules and Package Management | Python Standard Library | String Operations and Regular Expressions | List Comprehensions and Generators | Lambda Functions | Code Testing and Quality Assurance | PEP 8 Style Guidelines | Problem-Solving with Python</p>
+  </div>
 
 ---
 
@@ -164,9 +162,8 @@ title: Experience
 <div class="certification-item">
     <h4>Oracle Cloud Infrastructure 2025 AI Foundations Associate</h4>
     <p><strong>Oracle University</strong> | 2025 | <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=02DCED279F83A8A26D173A52F4CED2BD47EE0787E76AE193DDE4C8F587EBDF48">Certification Badge</a></p>
-    <p><strong>Skills covered:</strong> AI Foundations | Machine Learning Concepts | Oracle Cloud AI Services | AI Ethics and Governance | Data Science Fundamentals | Cloud-based AI Solutions</p>
+    <p><strong>Skills covered:</strong> AI and Machine Learning Foundations | Oracle Cloud AI Services | Deep Learning Principles | Natural Language Processing | Computer Vision | Generative AI Technologies | AI Ethics and Responsible AI | Data Science Methodologies | Model Training and Deployment | Oracle ML Services | Predictive Analytics | AI Use Case Implementation | Feature Engineering | Model Evaluation Metrics | OCI Infrastructure | Cloud-Based AI Architecture | AI Governance and Compliance | Automated Machine Learning (AutoML) | AI Integration with Enterprise Systems</p>
 </div>
-
 
 ---
 
