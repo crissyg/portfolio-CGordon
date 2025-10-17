@@ -175,6 +175,7 @@ title: Experience
   <ul>
     <li><strong><a href="https://stackoverflow.com/users/8372117/crissyg">Stack Overflow</a></strong> - Contributed by answering questions.</li>
     <li><strong><a href="https://gist.github.com/uupaa/f77d2bcf4dc7a294d109?permalink_comment_id=5287041#gistcomment-5287041"> GitHub Gists</a></strong> - Contributed by helping with issues and providing a resolution.</li>
+    <li><strong><a href="https://github.com/douglasdcm/guara/graphs/contributors">GitHub Repository Contributor</a></strong> - Contributed to open-source projects.</li>
     
   </ul>
   
