@@ -7,8 +7,8 @@ github: "https://github.com/crissyg/Airbnb-clone"
 demo: "https://airbnb-clone-ab2ce.web.app/"
 live_demo: true
 deployment_platform: "Firebase Hosting"
-featured: true
-order: 1
+featured: false
+order: 5
 image: "/assets/images/projects/airbnb-clone.png"
 status: "Live"
 ---
