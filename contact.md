@@ -73,7 +73,7 @@ I'm always interested in discussing new opportunities, collaborating on exciting
 ## 🌍 Location & Work Preferences
 
 ### **Based In**
-- **Primary Location**: Remote (Eastern Time Zone). On-site in SE and SW FL.
+- **Primary Location**: Remote(USA). On-site in SE and SW FL but open to relocating.
 - **Travel**: Available for occasional meetings and conferences
 - **Relocation**: Open to discussing for exceptional opportunities
 
