@@ -17,14 +17,14 @@ To leverage technology in building applications that not only meet business obje
 ## 🎓 Education 
 
 - **Bachelor of Science in Computer Science** - Nova Southeastern University, FL
-- **Master of Science in Information Technology** - Nova Southeastern University, FL
+- **Master of Science in Information Technology** - Application Developement and Database Administration Major, Nova Southeastern University, FL
 
 ## 🌱 Continuous Learning
 
 Technology evolves rapidly, and I'm committed to staying current with industry trends:
 
-- **Currently Exploring**: Serverless architectures, machine learning integration
-- **Recent Certifications**: Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure
+- **Currently Exploring**: Serverless architectures, Machine Learning Integration
+- **Recent Certifications**: Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure, Oracle OCI AI Foundations Associate: Fundamental AI and Machine Learning concepts with practical application within Oracle Cloud Infrastructure
 - **Learning Goals**: Advanced Kubernetes, GraphQL federation, AI/ML applications
 
 
