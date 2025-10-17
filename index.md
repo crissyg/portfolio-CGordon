@@ -7,14 +7,14 @@ title: Home
 
 ## Software Engineer
 
-Welcome to my portfolio! I'm a passionate software engineer with expertise that specializes in building scalable, efficient applications using Python, JavaScript, Java, Cloud technologies and cutting-edge frameworks.
+Welcome to my portfolio! I'm a passionate software engineer with expertise that specializes in building scalable, efficient applications using Python, JavaScript, Java, C++, Cloud technologies, and cutting-edge frameworks.
 
 ---
 
 ## 🚀 What I Do
 
-- **Backend Development**: Python (Flask, FastAPI), REST APIs, Java
-- **Frontend Development**: Node.js,  JavaScript, responsive design
+- **Backend Development**: Python (Flask, FastAPI), REST APIs, Java, C++, Kotlin
+- **Frontend Development**: Node.js, JavaScript, Responsive design
 - **DevOps & Automation**: Jenkins, CI/CD pipelines, Docker, GitHub Actions, JIRA integration, infrastructure automation
 - **Mobile Development**: Android, iOS, Cross-platform solutions
 
@@ -25,6 +25,7 @@ Welcome to my portfolio! I'm a passionate software engineer with expertise that 
 - **[About Me](about.md)** - Learn about my background and journey
 - **[Skills](skills.md)** - Detailed technical expertise breakdown  
 - **[All Projects](projects.md)** - Explore my development work
+- **[GitHub Repos](https://github.com/crissyg)** - Explore my GitHub repos
 - **[Experience](experience.md)** - Professional background and achievements
 - **[Contact](contact.md)** - Let's connect and discuss opportunities
 
@@ -54,9 +55,9 @@ Welcome to my portfolio! I'm a passionate software engineer with expertise that 
 
 I'm actively seeking **Software Engineer** positions where I can leverage my expertise in:
 
-- **Python, JavaScript, Kotlin, Java** ecosystem and best practices
-- **DevOps** with Jenkins automation tools and Docker
-- **JIRA** and agile development workflows
+- **Python, JavaScript, Kotlin, Java, C++** ecosystem and best practices
+- **DevOps** with Jenkins, Automation tools, GitHub actions, Bash, and Docker
+- **JIRA** and Agile development workflows
 
 **Remote-friendly** | **Full-time** | **Contract** opportunities welcome
 
