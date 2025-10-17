@@ -3,7 +3,7 @@ title: "GitCheat - Android"
 description: "A modern Android app providing quick reference to commonly used Git commands for developers and students. Built with Material Design 3, Jetpack Compose, and Firebase integration."
 category: "Mobile"
 technologies: ["Android", "Kotlin", "Jetpack Compose", "Material Design 3", "Firebase", "Hilt", "Android Studio", "JSON", "Google Gson"]
-github: "Private - will share for interviews and training"
+github: "https://crissyg.github.io/access-request-page/"
 live_demo: true
 demo: "https://play.google.com/store/apps/details?id=edu.nova.cec.christinag.gitcheat"
 featured: true
