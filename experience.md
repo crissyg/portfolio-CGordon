@@ -31,15 +31,6 @@ title: Experience
       <div class="timeline-description">
         <p>Led the development of critical infrastructure automation test systems at Motorola Solutions, specializing in Python, Java, Jenkins Automations and modern web report applications.</p>
         
-        <h4>Key Achievements:</h4>
-        <ul>
-          <li>Led cross-functional teams using Agile methodologies to deliver 2 new major software internal features on schedule, collaborating with hardware and electric engineering teams and utilizing Keysight measurement equipment for RF performance validation and P25 compliance testing.</li>
-          <li>Designed and deployed monitoring dashboards and automated test integration suites that increased code coverage by 40% and reduced post-deployment critical bugs by 85%, ensuring 99.9% uptime for emergency response communications.</li>
-          <li>Successfully maintained and enhanced embedded firmware tests for legacy portable radios (LMRs) and mobile systems, ensuring compliance with P25 digital radio standards for mission-critical emergency communications infrastructure.</li>
-          <li>Developed comprehensive automation frameworks using for Android OS devices that reduced manual testing cycles by 60% and deployment time by 75%, enabling faster release cycles for legacy portable radio and mobile platform software updates.</li>
-          <li>Android OS integration projects for next-generation LMR devices, implementing system-level applications that enhanced user experience and operational functionality for mission-critical public safety communications used by 13,000+ LMR networks worldwide</li>
-        </ul>
-        
         <h4>Technologies Used:</h4>
         <div class="tech-tags">
           <span class="tech-tag">Python</span> |
@@ -67,13 +58,7 @@ title: Experience
       </p>
       
       <div class="timeline-description">
-        <p></p>
-        
-        <h4>Key Achievements:</h4>
-        <ul>
-          <li>Developed - Developed concise, reusable automated test scripts for core infrastructure components and web interfaces using Python’s functional programming, contributing to platform stability.</li>
-          <li>Conducted RESTful API testing for platform services and collaborated with development teams, ensuring comprehensive test coverage and integrity of underlying infrastructure. Validated data integrity by writing SQL queries against platform databases.</li>
-        </ul>
+        <p>Embedded Systems Test Co-op who developed automated test solutions for enterprise hardware systems including Server RPM, PDUs, Console Servers, and Monitoring Power Units, gaining hands-on experience in cross-functional collaboration while contributing to system reliability improvements and test automation efficiency.</p>
         
         <h4>Technologies Used:</h4>
         <div class="tech-tags">
@@ -173,6 +158,15 @@ title: Experience
     <p><strong>Skills covered:</strong> Oracle Cloud Security Services | CyberSecurity | Cloud Security Drivers and Challenges</p>
 
 </div>
+
+---
+
+<div class="certification-item">
+    <h4>Oracle Cloud Infrastructure 2025 AI Foundations Associate</h4>
+    <p><strong>Oracle University</strong> | 2025 | <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=02DCED279F83A8A26D173A52F4CED2BD47EE0787E76AE193DDE4C8F587EBDF48">Certification Badge</a></p>
+    <p><strong>Skills covered:</strong> AI Foundations | Machine Learning Concepts | Oracle Cloud AI Services | AI Ethics and Governance | Data Science Fundamentals | Cloud-based AI Solutions</p>
+</div>
+
 
 ---
 
