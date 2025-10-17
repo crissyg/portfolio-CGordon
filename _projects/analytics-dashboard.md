@@ -4,6 +4,7 @@ description: "Interactive web application that visualizes and tracks device batt
 category: "Frontend"
 technologies: ["JavaScript", "HTML5", "CSS3", "Chart.js", "ES6 Modules"]
 github: "https://github.com/crissyg/Battery-Health-Analytics"
+live_demo: true
 demo: "https://codepen.io/crissyg-the-encoder/pen/PwqQGao"
 featured: true
 order: 13
