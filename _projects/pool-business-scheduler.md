@@ -5,7 +5,7 @@ category: "Mobile"
 technologies: ["Java", "Android Studio", "MySql", "Material Design"]
 github: "https://github.com/crissyg/PoolBusinessScheduler"
 demo: ""
-featured: true
+featured: false
 order: 6
 status: "Complete"
 deployment_platform: "Google Play Store"
