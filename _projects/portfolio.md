@@ -4,8 +4,9 @@ description: "Professional portfolio website showcasing software engineering pro
 category: "Frontend"
 technologies: ["HTML", "CSS", "JavaScript", "Jekyll", "GitHub Pages"]
 github: "https://github.com/crissyg/portfolio-CGordon"
+live_demo: true
 demo: "https://crissyg.github.io/portfolio-CGordon/"
-featured: true
+featured: false
 order: 12
 status: "Complete"
 deployment_platform: "GitHub Pages"
