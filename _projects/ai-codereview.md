@@ -5,7 +5,7 @@ category: "Backend"
 technologies: ["Python", "JavaScript", "FastAPI", "HuggingFace", "GitHub API", "PostgreSQL"]
 github: "https://github.com/crissyg/ai-codereview"
 demo: ""
-featured: true
+featured: false
 order: 2
 status: "In Development"
 deployment_platform: "Docker"
