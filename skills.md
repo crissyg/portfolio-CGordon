@@ -112,25 +112,6 @@ My expertise spans the entire software engineering spectrum, from developing rob
 - **Backend**: Database indexing, query optimization, caching layers
 - **Monitoring**: Performance profiling, bottleneck identification
 
-
-
-## 🎯 Current Learning Goals
-
-### **Short-term (Next 6 months)**
-- Advanced Kubernetes deployment and management
-- GraphQL federation and advanced schemas
-- AWS Solutions Architect certification
-
-### **Medium-term (6-12 months)**
-- Machine learning integration with web applications
-- Advanced microservices patterns
-- Performance optimization at scale
-
-### **Long-term (1+ years)**
-- Cloud architecture specialization
-- Technical leadership and mentoring
-- Open source project maintenance
-
 ---
 
 *This skills overview is regularly updated to reflect my current expertise and learning progress.*
